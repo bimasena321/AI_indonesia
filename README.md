@@ -10,15 +10,18 @@
 <a href="https://www.youtube.com/c/bima020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bima020" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bimasopan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bimasopan13" height="30" width="40" /></a>
 </p>
-<h3 align="left">persyaratan:</h3>
+<h3 align="left">persyaratan:
 <br>
 - gTTS
+<br>
 - speech_recognition
+<br>
 - pyttx3
 <br>
-**module:**<br>
-- url
+** module: **
 <br>
+*url
+</h3>
 
 
 
