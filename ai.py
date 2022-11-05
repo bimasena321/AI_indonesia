@@ -4,7 +4,9 @@ import os as putar
 from gtts import gTTS
 import speech_recognition as sr
 
-
+#made by bimasena321
+#from indonesia
+#i hate arab,i hate terorist
 error = "ulangi pengucapan anda saya tidak dengar"
 negara = 'id'
 mesin = pyttsx3.init()
