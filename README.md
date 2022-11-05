@@ -10,14 +10,37 @@
 <a href="https://www.youtube.com/c/bima020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bima020" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bimasopan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bimasopan13" height="30" width="40" /></a>
 </p>
-**persyaratan :**
-- gTTS
-<br>
-- speech_recognition
-<br>
-- pyttx3
+<h3 align="left">persyaratan:</h3>
 
+ * pyttx3
+ * speech_recognition
+ * gTTS
+  
+**install persyaratan untuk Linux**
+```bash
+$ pip3 install -r persyaratan.txt
+```
+**install persyaratan untuk Windows dan Mac os**
+```bash
+$ pip install -r persyaratan.txt
+```
+    
+**module:**
+ * url
 
+**INSTALL**
+```bash
+$ git clone https://github.com/bimasena321/AI_indonesia
+$ cd AI_indonesia
+```
+**penggunaan untuk Windows && Mac os**
+```bash
+$ python3 ai.py
+```
+**penggunaan untuk Linux**
+```bash
+$ python ai.py
+```
 
 
 
