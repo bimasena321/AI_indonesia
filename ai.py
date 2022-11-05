@@ -1,4 +1,4 @@
-import url
+from module.url import url
 import pyttsx3
 import os as putar
 from gtts import gTTS
